@@ -5,7 +5,7 @@ josef lopez serna
 
 
 Actividad:
-Parte 1: Investigación (Teoría)
+Parte 1: Investigación (Teoría) 
 ##1. ¿Qué es React?
 React es una biblioteca de JavaScript creada por Meta para construir interfaces de usuario dinámicas y reutilizables, especialmente en aplicaciones web. Se basa en componentes, usa una sintaxis llamada JSX, y trabaja con un DOM virtual para mejorar el rendimiento. Los datos fluyen en una sola dirección y se pueden manejar con Hooks como useState. Es ideal para desarrollar interfaces modernas y eficientes.
 
